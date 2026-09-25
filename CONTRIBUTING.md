@@ -54,8 +54,9 @@ to the reader as "you". Use the informal "you" where your language has one
 (du, tu, ты). Use Minecraft's own names for mobs, as the game does in your
 language. Keep "BedrockRelay", "Discord" and "Minecraft" as they are.
 
-## Checking your file
+## After you open the pull request
 
-With the BedrockRelay code checked out, `npm run test:i18n` in `gateway/`
-checks every language file and lists anything a rule would leave out.
-Otherwise, we check it when you open the pull request.
+We check every pull request against these rules before merging, and comment
+on anything that needs changing. Once it's merged, your translation reaches
+the dashboard and every Discord server within a few minutes of our next
+update.
