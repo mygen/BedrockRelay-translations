@@ -343,7 +343,6 @@
     "web.routes.connectedText": "{channel} 现在会中继 {server}。",
     "web.routes.discordChannel": "Discord 频道",
     "web.routes.connected": "已连接的频道",
-    "web.routes.connectedHint": "编辑每个频道的方向、事件和共享聊天,然后保存更改。",
     "web.routes.add": "添加频道路由",
     "web.routes.addHint": "将另一个 Discord 频道连接到 Minecraft 服务器。",
     "web.routes.addFirst": "请先设置你自己的 Minecraft 服务器,并让机器人可以访问一个文字频道。",

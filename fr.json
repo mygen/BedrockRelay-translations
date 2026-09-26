@@ -343,7 +343,6 @@
     "web.routes.connectedText": "{channel} relaie maintenant {server}.",
     "web.routes.discordChannel": "Salon Discord",
     "web.routes.connected": "Salons connectés",
-    "web.routes.connectedHint": "Modifie le sens, les événements et le chat partagé de chaque salon, puis enregistre ses modifications.",
     "web.routes.add": "Ajouter une route de salon",
     "web.routes.addHint": "Connecte un autre salon Discord à un serveur Minecraft.",
     "web.routes.addFirst": "Configure d'abord ton propre serveur Minecraft et donne au bot l'accès à un salon textuel.",

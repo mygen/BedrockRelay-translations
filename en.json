@@ -228,6 +228,7 @@
     "web.lang.machineLink": "Help us improve it on GitHub.",
 
     "web.nav.label": "Dashboard navigation",
+    "web.nav.menu": "Menu",
     "web.nav.signOut": "Sign out",
     "web.nav.home": "Home",
     "web.nav.overview": "Overview",
@@ -375,7 +376,7 @@
     "web.routes.connectedText": "{channel} now relays {server}.",
     "web.routes.discordChannel": "Discord channel",
     "web.routes.connected": "Connected channels",
-    "web.routes.connectedHint": "Edit each channel's direction, events and shared chat, then save its changes.",
+    "web.routes.connectedHint": "Each channel's direction, events and shared chat save as you change them.",
     "web.routes.add": "Add a channel route",
     "web.routes.addHint": "Connect another Discord channel to a Minecraft server.",
     "web.routes.addFirst": "Set up a Minecraft server of your own and give the bot access to a text channel first.",

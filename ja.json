@@ -343,7 +343,6 @@
     "web.routes.connectedText": "{channel} は {server} を中継します。",
     "web.routes.discordChannel": "Discord チャンネル",
     "web.routes.connected": "接続済みのチャンネル",
-    "web.routes.connectedHint": "各チャンネルの方向、イベント、共有チャットを編集して、変更を保存します。",
     "web.routes.add": "チャンネルのルートを追加",
     "web.routes.addHint": "別の Discord チャンネルを Minecraft サーバーに接続します。",
     "web.routes.addFirst": "まず自分の Minecraft サーバーを設定し、ボットにテキストチャンネルへのアクセスを与えてください。",

@@ -343,7 +343,6 @@
     "web.routes.connectedText": "{channel} leitet jetzt {server} weiter.",
     "web.routes.discordChannel": "Discord-Kanal",
     "web.routes.connected": "Verbundene Kanäle",
-    "web.routes.connectedHint": "Bearbeite Richtung, Ereignisse und gemeinsamen Chat jedes Kanals und speichere dann seine Änderungen.",
     "web.routes.add": "Kanalroute hinzufügen",
     "web.routes.addHint": "Verbinde einen weiteren Discord-Kanal mit einem Minecraft-Server.",
     "web.routes.addFirst": "Richte zuerst einen eigenen Minecraft-Server ein und gib dem Bot Zugriff auf einen Textkanal.",
