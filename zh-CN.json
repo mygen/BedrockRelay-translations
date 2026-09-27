@@ -383,7 +383,6 @@
     "web.mc.notConnected": "尚未连接到频道",
     "web.mc.sparklineLabel": "过去 7 天每天的消息数:{values}",
     "web.mc.openLabel": "打开 {server}",
-    "web.mc.setUpIn": "在 {guild} 中设置",
     "web.mc.minecraftVersion": "Minecraft {version}",
     "web.mc.updatePackTo": "将数据包更新到 v{version}",
     "web.mc.reinstallPack": "重新安装数据包",

@@ -383,7 +383,6 @@
     "web.mc.notConnected": "まだチャンネルに接続されていません",
     "web.mc.sparklineLabel": "過去 7 日間の 1 日あたりのメッセージ数: {values}",
     "web.mc.openLabel": "{server} を開く",
-    "web.mc.setUpIn": "{guild} で設定",
     "web.mc.minecraftVersion": "Minecraft {version}",
     "web.mc.updatePackTo": "パックを v{version} に更新",
     "web.mc.reinstallPack": "パックを再インストール",

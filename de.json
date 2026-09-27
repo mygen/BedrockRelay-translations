@@ -383,7 +383,6 @@
     "web.mc.notConnected": "Noch mit keinem Kanal verbunden",
     "web.mc.sparklineLabel": "Nachrichten pro Tag in den letzten 7 Tagen: {values}",
     "web.mc.openLabel": "{server} öffnen",
-    "web.mc.setUpIn": "Eingerichtet in {guild}",
     "web.mc.minecraftVersion": "Minecraft {version}",
     "web.mc.updatePackTo": "Pack auf v{version} aktualisieren",
     "web.mc.reinstallPack": "Pack neu installieren",

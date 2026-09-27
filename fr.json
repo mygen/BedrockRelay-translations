@@ -383,7 +383,6 @@
     "web.mc.notConnected": "Pas encore connecté à un salon",
     "web.mc.sparklineLabel": "Messages par jour sur les 7 derniers jours : {values}",
     "web.mc.openLabel": "Ouvrir {server}",
-    "web.mc.setUpIn": "Configuré dans {guild}",
     "web.mc.minecraftVersion": "Minecraft {version}",
     "web.mc.updatePackTo": "Mettre à jour le pack en v{version}",
     "web.mc.reinstallPack": "Réinstaller le pack",

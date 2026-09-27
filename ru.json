@@ -383,7 +383,6 @@
     "web.mc.notConnected": "Пока не подключён ни к одному каналу",
     "web.mc.sparklineLabel": "Сообщений в день за последние 7 дней: {values}",
     "web.mc.openLabel": "Открыть {server}",
-    "web.mc.setUpIn": "Настроен в {guild}",
     "web.mc.minecraftVersion": "Minecraft {version}",
     "web.mc.updatePackTo": "Обновить пак до v{version}",
     "web.mc.reinstallPack": "Переустановить пак",
