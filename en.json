@@ -957,6 +957,6 @@
     "errors.realm.failed": "That didn't work. Please try again.",
     "web.setup.chooseGuildText": "Which Discord server should BedrockRelay post in? You can add more later.",
     "web.setup.chooseGuildPlaceholder": "Choose a Discord server",
-    "web.setup.guildHasBot": "{guild} (BedrockRelay is already here)"
+    "web.setup.guildHere": "BedrockRelay is already here"
   }
 }
