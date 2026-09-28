@@ -954,6 +954,9 @@
     "errors.realm.alreadyConnected": "That Realm is already connected to BedrockRelay.",
     "errors.realm.noBot": "BedrockRelay can't take on another Realm right now. Please try again later.",
     "errors.realm.busy": "Your Realm is busy. Try again in a few minutes.",
-    "errors.realm.failed": "That didn't work. Please try again."
+    "errors.realm.failed": "That didn't work. Please try again.",
+    "web.setup.chooseGuildText": "Which Discord server should BedrockRelay post in? You can add more later.",
+    "web.setup.chooseGuildPlaceholder": "Choose a Discord server",
+    "web.setup.guildHasBot": "{guild} (BedrockRelay is already here)"
   }
 }
