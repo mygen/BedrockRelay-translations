@@ -984,6 +984,8 @@
     "web.setup.realmManualAuto": "Let BedrockRelay add it instead",
     "web.setup.realmPackManualDone": "Adding the pack yourself: our bot hides once it answers",
     "web.players.botBadge": "Our bot",
-    "web.players.botNote": "Relays chat between your Realm and Discord. Hidden from players, but it uses one of your Realm's player slots."
+    "web.players.botNote": "Relays chat between your Realm and Discord. Hidden from players, but it uses one of your Realm's player slots.",
+    "web.announce.forYou": "Just for you",
+    "errors.announcementGone": "That message is no longer there."
   }
 }
