@@ -957,6 +957,13 @@
     "errors.realm.failed": "That didn't work. Please try again.",
     "web.setup.chooseGuildText": "Which Discord server should BedrockRelay post in? You can add more later.",
     "web.setup.chooseGuildPlaceholder": "Choose a Discord server",
-    "web.setup.guildHere": "BedrockRelay is already here"
+    "web.setup.guildHere": "BedrockRelay is already here",
+    "web.setup.realmJoinWaiting": "Waiting for your Realm to let our bot in.",
+    "web.setup.realmJoinBusy": "Minecraft is still getting your Realm ready after the update. Our bot keeps trying.",
+    "web.setup.realmJoinSlow": "This can take a minute or two after an update.",
+    "web.setup.realmJoinLong": "This is taking longer than usual. Check your Realm is open in Minecraft; our bot keeps trying.",
+    "web.setup.realmJoinTrying": "Trying for {time}",
+    "web.setup.realmElapsedSec": "{sec} s",
+    "web.setup.realmElapsedMin": "{min} min {sec} s"
   }
 }
