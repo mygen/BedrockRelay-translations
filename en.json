@@ -987,6 +987,7 @@
     "web.announce.forYou": "Just for you",
     "errors.announcementGone": "That message is no longer there.",
     "web.nav.account": "Account",
+    "web.nav.accountFor": "Your account ({name})",
     "web.setup.realmSignOut": "Sign out of Microsoft",
     "web.setup.realmSignedOutTitle": "Signed out of Microsoft",
     "web.setup.realmSignedOutText": "Your Microsoft sign-in is deleted from BedrockRelay. Your Realms keep relaying; adding or updating their pack will ask you to sign in again.",
