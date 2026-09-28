@@ -608,7 +608,6 @@
     "web.install.yourWorld": "あなたのワールド",
     "web.install.backedUp": "変更する既存ファイルは、先に元のファイルの隣にバックアップします。",
     "web.install.betaOn": "ベータ API がオンになります。このワールドの実績は今後無効になります。",
-    "web.install.liability": "BedrockRelay は確認できることをすべて確認しましたが、Minecraft サーバーとそのバックアップは私の責任であり、BedrockRelay はいかなる損失や損害にも責任を負わないことを理解しています。{terms}を参照してください。",
     "web.install.betaOffShort": "ベータ API オフ",
     "web.install.current": "現在の状態",
     "web.install.after": "インストール後",

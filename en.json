@@ -737,7 +737,6 @@
     "web.install.yourWorld": "your world",
     "web.install.backedUp": "Every existing file we change is backed up first, next to the original.",
     "web.install.betaOn": "Beta APIs will be turned on. Achievements are disabled for this world from now on.",
-    "web.install.liability": "I understand BedrockRelay has checked everything it can, but my Minecraft server and its backups are my responsibility, and BedrockRelay is not liable for any loss or damage. See the {terms}.",
     "web.install.betaOffShort": "Beta APIs off",
     "web.install.current": "Current state",
     "web.install.after": "After installation",
@@ -1022,6 +1021,14 @@
     "web.account.data3": "If you've connected Microsoft for Realms: your gamertag and your sign-in, encrypted, until you sign out.",
     "web.account.data4": "No chat archive, no email address, and nothing sold or used for advertising.",
     "web.account.dataMore": "The {privacy} explains everything we keep and why. To get a copy of your data or have it deleted, email {email}.",
-    "web.account.privacyLink": "privacy policy"
+    "web.account.privacyLink": "privacy policy",
+    "web.terms.titleNew": "Before you start",
+    "web.terms.textNew": "BedrockRelay connects your Minecraft worlds to Discord. Please read our terms and privacy policy, and agree to them to carry on.",
+    "web.terms.titleUpdated": "We've updated our terms",
+    "web.terms.textUpdated": "Our Terms of Service and Privacy Policy have changed since you last agreed to them. Please read them again, and agree to carry on.",
+    "web.terms.agree": "I agree to the {terms} and have read the {privacy}.",
+    "web.terms.continue": "Continue",
+    "web.account.termsAgreed": "You agreed to the Terms of Service and Privacy Policy on {date}.",
+    "errors.termsChanged": "The terms changed while this page was open. Please read the new ones."
   }
 }

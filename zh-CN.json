@@ -608,7 +608,6 @@
     "web.install.yourWorld": "你的世界",
     "web.install.backedUp": "我们更改的每个现有文件都会先在原文件旁边备份。",
     "web.install.betaOn": "将开启测试版 API。从现在起,此世界的成就将被禁用。",
-    "web.install.liability": "我明白 BedrockRelay 已尽可能检查了一切,但我的 Minecraft 服务器及其备份由我自己负责,BedrockRelay 不对任何损失或损害负责。请参阅{terms}。",
     "web.install.betaOffShort": "测试版 API 已关闭",
     "web.install.current": "当前状态",
     "web.install.after": "安装之后",

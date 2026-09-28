@@ -608,7 +608,6 @@
     "web.install.yourWorld": "tu mundo",
     "web.install.backedUp": "Antes de cambiar cualquier archivo existente, hacemos una copia junto al original.",
     "web.install.betaOn": "Se activarán las API beta. Los logros quedan desactivados en este mundo a partir de ahora.",
-    "web.install.liability": "Entiendo que BedrockRelay ha comprobado todo lo que puede, pero mi servidor de Minecraft y sus copias de seguridad son mi responsabilidad, y BedrockRelay no se hace responsable de pérdidas ni daños. Consulta los {terms}.",
     "web.install.betaOffShort": "API beta desactivadas",
     "web.install.current": "Estado actual",
     "web.install.after": "Después de instalar",
