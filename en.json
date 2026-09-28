@@ -964,6 +964,14 @@
     "web.setup.realmJoinLong": "This is taking longer than usual. Check your Realm is open in Minecraft; our bot keeps trying.",
     "web.setup.realmJoinTrying": "Trying for {time}",
     "web.setup.realmElapsedSec": "{sec} s",
-    "web.setup.realmElapsedMin": "{min} min {sec} s"
+    "web.setup.realmElapsedMin": "{min} min {sec} s",
+    "web.setup.realmSignInProblem.noMinecraft": "Minecraft refused that account. Sign in to Minecraft with it once to accept Minecraft's terms, check its Xbox privacy settings allow multiplayer, then try again.",
+    "web.setup.realmSignInProblem.noXbox": "That Microsoft account has no Xbox profile yet. Sign in to Minecraft or xbox.com with it once to create one, then try again.",
+    "web.setup.realmSignInProblem.child": "That's a child account, which needs a parent to allow online play in its Microsoft family settings first.",
+    "web.setup.realmJoinClosed": "Your Realm is still closed. Our bot joins as soon as it opens.",
+    "web.setup.realmJoinNoAccess": "Our bot can't get into your Realm any more. If it was removed from the Realm's members, remove this Realm from BedrockRelay and set it up again.",
+    "web.setup.realmJoinPackSilent": "Our bot is in your Realm, but the BedrockRelay pack hasn't answered it. Adding the pack again usually fixes this.",
+    "web.setup.realmPackAgain": "Add the pack again",
+    "errors.realm.inviteSlow": "Our bot was invited but the invite hasn't reached it yet. Try again in a minute."
   }
 }
