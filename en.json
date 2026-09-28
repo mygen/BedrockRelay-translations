@@ -422,6 +422,8 @@
     "web.mc.neverConnected": "Never connected",
     "web.mc.playersOnline": { "one": "{count} player online", "other": "{count} players online" },
     "web.mc.playersOnlineOf": { "one": "{count} / {max} player online", "other": "{count} / {max} players online" },
+    "web.mc.realmPlayers": { "one": "{count} player + our bot", "other": "{count} players + our bot" },
+    "web.mc.realmPlayersOf": { "one": "{count} player + our bot · {used} of {max} slots", "other": "{count} players + our bot · {used} of {max} slots" },
     "web.mc.channels": { "one": "{count} channel", "other": "{count} channels" },
     "web.mc.guilds": { "one": "{count} Discord server", "other": "{count} Discord servers" },
     "web.mc.where": "{channels} in {guilds}",
