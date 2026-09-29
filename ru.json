@@ -736,7 +736,7 @@
     "web.download.stepsTitle": "Установка скачанного пака",
     "web.download.step1": "Остановите сервер Minecraft.",
     "web.download.step2": "Распакуйте в папку с server.properties и worlds/. Объединяйте файлы, а не заменяйте другие паки.",
-    "web.download.step3": "Добавьте запись BedrockRelay из INSTALL.txt в world_behavior_packs.json вашего мира, сохранив существующие записи.",
+    "web.download.step3": "Добавьте запись BedrockRelay из INSTALL.txt в самое начало world_behavior_packs.json вашего мира, сохранив существующие записи под ней.",
     "web.download.step4": "Включите бета-API для мира. Это обязательно и, как любой эксперимент, навсегда отключает достижения в этом мире.",
     "web.download.installed": "Я установил",
 

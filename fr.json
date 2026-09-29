@@ -736,7 +736,7 @@
     "web.download.stepsTitle": "Installer le pack téléchargé",
     "web.download.step1": "Arrête le serveur Minecraft.",
     "web.download.step2": "Décompresse dans le dossier contenant server.properties et worlds/. Fusionne les fichiers plutôt que de remplacer d'autres packs.",
-    "web.download.step3": "Ajoute l'entrée BedrockRelay d'INSTALL.txt au world_behavior_packs.json de ton monde, en gardant les entrées existantes.",
+    "web.download.step3": "Ajoute l'entrée BedrockRelay d'INSTALL.txt en haut du world_behavior_packs.json de ton monde, en gardant les entrées existantes en dessous.",
     "web.download.step4": "Active les API bêta pour le monde. C'est obligatoire et, comme toute expérience, cela désactive définitivement les succès pour ce monde.",
     "web.download.installed": "Je l'ai installé",
 

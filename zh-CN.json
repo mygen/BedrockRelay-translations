@@ -736,7 +736,7 @@
     "web.download.stepsTitle": "安装下载的数据包",
     "web.download.step1": "停止 Minecraft 服务器。",
     "web.download.step2": "解压到包含 server.properties 和 worlds/ 的文件夹。合并文件,不要替换其他数据包。",
-    "web.download.step3": "将 INSTALL.txt 中的 BedrockRelay 条目添加到你世界的 world_behavior_packs.json 中,并保留已有条目。",
+    "web.download.step3": "将 INSTALL.txt 中的 BedrockRelay 条目添加到你世界的 world_behavior_packs.json 的最前面,并将已有条目保留在它下面。",
     "web.download.step4": "为世界开启测试版 API。这是必需的,并且和任何实验性玩法一样,会永久禁用该世界的成就。",
     "web.download.installed": "我已经安装好了",
 

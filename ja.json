@@ -736,7 +736,7 @@
     "web.download.stepsTitle": "ダウンロードしたパックのインストール",
     "web.download.step1": "Minecraft サーバーを停止します。",
     "web.download.step2": "server.properties と worlds/ があるフォルダーに展開します。他のパックを置き換えず、ファイルを統合してください。",
-    "web.download.step3": "INSTALL.txt の BedrockRelay のエントリを、既存のエントリを残したままワールドの world_behavior_packs.json に追加します。",
+    "web.download.step3": "INSTALL.txt の BedrockRelay のエントリを、ワールドの world_behavior_packs.json の先頭に追加します。既存のエントリはその下に残してください。",
     "web.download.step4": "ワールドでベータ API をオンにします。必須であり、他の実験機能と同じく、そのワールドの実績は永久に無効になります。",
     "web.download.installed": "インストールしました",
 
