@@ -654,9 +654,9 @@
     "web.plugins.badgeLabel": "Plugins: {words}",
     "web.plugins.postsByItself": "Posts by itself: {posts}",
 
-    "web.serverPlugins.intro": "Plugins add Discord commands for your Minecraft world. Installed plugins appear here after the Minecraft server restarts; switch one on to add its commands to the Discord servers this Minecraft server is connected to. Answers are only shown to the person who asked, unless the plugin says they're for everyone. Plugins that post by themselves only post in the channels you choose.",
+    "web.serverPlugins.intro": "Plugins add Discord commands for your Minecraft world. Installed plugins appear here after the Minecraft server restarts, already switched on, so their commands are added to the Discord servers this Minecraft server is connected to. Switch one off to take its commands away. Answers are only shown to the person who asked, unless the plugin says they're for everyone. Plugins that post by themselves only post in the channels you choose.",
 
-    "web.serverPlugins.introRealm": "Plugins add Discord commands for your Minecraft world. On a Realm they go in with the BedrockRelay pack and appear here once it has reopened; switch one on to add its commands to the Discord servers this Realm is connected to. Answers are only shown to the person who asked, unless the plugin says they're for everyone. Plugins that post by themselves only post in the channels you choose.",
+    "web.serverPlugins.introRealm": "Plugins add Discord commands for your Minecraft world. On a Realm they go in with the BedrockRelay pack and appear here once it has reopened, already switched on, so their commands are added to the Discord servers this Realm is connected to. Switch one off to take its commands away. Answers are only shown to the person who asked, unless the plugin says they're for everyone. Plugins that post by themselves only post in the channels you choose.",
     "web.serverPlugins.toggleLabel": "{plugin} plugin",
     "web.serverPlugins.addRole": "Add a role…",
     "web.serverPlugins.whoCan": "Who can use it:",
