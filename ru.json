@@ -769,8 +769,6 @@
     "web.catalog.realmClosesText": "Мы скачаем его мир, добавим набор с этими плагинами и загрузим обратно. Игроки будут отключены, а по завершении Realm откроется сам.",
     "web.catalog.untestedTitle": "Не отмечено для Realms",
     "web.catalog.untestedText": "Ещё не проверено на Realm, который работает без бета-API. Плагин, которому они нужны, не загрузится, и страница плагинов сообщит об этом.",
-    "web.catalog.realmStartedTitle": "Установка {changes} на {realm}",
-    "web.catalog.realmStartedText": "Пока это идёт, {realm} закрыт. Ход установки видно на вкладке «Настройки».",
     "web.catalog.realmSignIn": "Сначала снова войдите в Microsoft в настройке Realm.",
     "web.catalog.notInstalled": "Не установлен",
     "web.catalog.installedVersion": "установлена v{version}",

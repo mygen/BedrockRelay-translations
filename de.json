@@ -769,8 +769,6 @@
     "web.catalog.realmClosesText": "Wir laden seine Welt herunter, fügen das Pack mit diesen Plugins hinzu und laden sie wieder hoch. Wer gerade spielt, wird getrennt, und der Realm öffnet sich danach von selbst wieder.",
     "web.catalog.untestedTitle": "Nicht für Realms markiert",
     "web.catalog.untestedText": "Noch nicht auf einem Realm geprüft, der ohne Beta-APIs läuft. Ein Plugin, das sie braucht, lädt nicht, und die Plugin-Seite zeigt das an.",
-    "web.catalog.realmStartedTitle": "{changes} werden auf {realm} installiert",
-    "web.catalog.realmStartedText": "{realm} ist währenddessen geschlossen. Der Tab Einstellungen zeigt den Fortschritt.",
     "web.catalog.realmSignIn": "Melde dich zuerst in der Realm-Einrichtung erneut bei Microsoft an.",
     "web.catalog.notInstalled": "Nicht installiert",
     "web.catalog.installedVersion": "v{version} installiert",

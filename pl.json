@@ -769,8 +769,6 @@
     "web.catalog.realmClosesText": "Pobieramy jego świat, dodajemy paczkę z tymi pluginami i wysyłamy go z powrotem. Grający zostaną rozłączeni, a Realm sam otworzy się ponownie po zakończeniu.",
     "web.catalog.untestedTitle": "Nieoznaczone dla Realmów",
     "web.catalog.untestedText": "Jeszcze nie sprawdzono na Realmie, który działa bez API beta. Plugin, który ich potrzebuje, nie załaduje się, a strona pluginów to pokaże.",
-    "web.catalog.realmStartedTitle": "Instalowanie {changes} na {realm}",
-    "web.catalog.realmStartedText": "W tym czasie {realm} jest zamknięty. Karta Ustawienia pokazuje postęp.",
     "web.catalog.realmSignIn": "Najpierw zaloguj się ponownie do Microsoftu w konfiguracji Realma.",
     "web.catalog.notInstalled": "Nie zainstalowano",
     "web.catalog.installedVersion": "zainstalowano v{version}",

@@ -769,8 +769,6 @@
     "web.catalog.realmClosesText": "Baixamos o mundo, adicionamos o pacote com estes plugins e enviamos de novo. Quem estiver jogando é desconectado, e o Realm abre de novo sozinho ao terminar.",
     "web.catalog.untestedTitle": "Não marcado para Realms",
     "web.catalog.untestedText": "Ainda não verificado em um Realm, que roda sem APIs beta. Um plugin que precise delas não carrega, e a página de plugins vai mostrar isso.",
-    "web.catalog.realmStartedTitle": "Instalando {changes} em {realm}",
-    "web.catalog.realmStartedText": "{realm} fica fechado enquanto isso. A aba Configurações mostra o andamento.",
     "web.catalog.realmSignIn": "Entre de novo na Microsoft na configuração do Realm primeiro.",
     "web.catalog.notInstalled": "Não instalado",
     "web.catalog.installedVersion": "v{version} instalada",

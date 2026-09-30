@@ -769,8 +769,6 @@
     "web.catalog.realmClosesText": "On télécharge son monde, on ajoute le pack avec ces plugins et on le renvoie. Les joueurs connectés sont déconnectés, et le Realm rouvre tout seul à la fin.",
     "web.catalog.untestedTitle": "Non marqué pour les Realms",
     "web.catalog.untestedText": "Pas encore vérifié sur un Realm, qui tourne sans API bêta. Un plugin qui en a besoin ne se chargera pas, et la page des plugins le dira.",
-    "web.catalog.realmStartedTitle": "Installation de {changes} sur {realm}",
-    "web.catalog.realmStartedText": "{realm} est fermé pendant ce temps. Son onglet Paramètres montre où ça en est.",
     "web.catalog.realmSignIn": "Reconnecte-toi d'abord à Microsoft dans la configuration du Realm.",
     "web.catalog.notInstalled": "Non installé",
     "web.catalog.installedVersion": "v{version} installée",

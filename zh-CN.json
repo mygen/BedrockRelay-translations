@@ -769,8 +769,6 @@
     "web.catalog.realmClosesText": "我们会下载它的世界，加入包含这些插件的行为包，然后重新上传。正在游玩的人会被断开，完成后 Realm 会自动重新开放。",
     "web.catalog.untestedTitle": "未标记为支持 Realms",
     "web.catalog.untestedText": "尚未在 Realm 上检查过（Realm 不支持测试版 API）。需要这些 API 的插件不会加载，插件页面会显示出来。",
-    "web.catalog.realmStartedTitle": "正在向 {realm} 安装 {changes}",
-    "web.catalog.realmStartedText": "期间 {realm} 处于关闭状态。可在其设置标签页查看进度。",
     "web.catalog.realmSignIn": "请先在 Realm 设置中重新登录 Microsoft。",
     "web.catalog.notInstalled": "未安装",
     "web.catalog.installedVersion": "已安装 v{version}",

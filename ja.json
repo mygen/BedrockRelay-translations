@@ -769,8 +769,6 @@
     "web.catalog.realmClosesText": "ワールドをダウンロードし、これらのプラグインを含むパックを追加して再アップロードします。プレイ中の人は切断され、完了すると Realm は自動で再び開きます。",
     "web.catalog.untestedTitle": "Realms 向けとしてマークされていません",
     "web.catalog.untestedText": "ベータ API なしで動く Realm ではまだ確認されていません。ベータ API が必要なプラグインは読み込まれず、プラグインのページにそう表示されます。",
-    "web.catalog.realmStartedTitle": "{realm} に {changes} をインストール中",
-    "web.catalog.realmStartedText": "その間 {realm} は閉じています。進み具合は設定タブで確認できます。",
     "web.catalog.realmSignIn": "先に Realm の設定で Microsoft にもう一度サインインしてください。",
     "web.catalog.notInstalled": "未インストール",
     "web.catalog.installedVersion": "v{version} インストール済み",
