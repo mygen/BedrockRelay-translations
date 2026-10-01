@@ -362,7 +362,6 @@
     "web.sftp.folderLong": "Minecraft サーバーのフォルダー(server.properties と worlds/ があるフォルダー)",
     "web.sftp.key": "SSH 秘密鍵(任意)",
     "web.sftp.keyPlaceholder": "任意: パスワードの代わりに SSH 秘密鍵",
-    "web.sftp.remember": "この端末に入力内容を記憶する。パスワードと鍵は記憶しません。",
     "web.sftp.missingTitle": "SFTP 情報が足りません",
     "web.sftp.missingText": "SFTP ホスト、ユーザー名、パスワードまたは秘密鍵を入力してください。",
 

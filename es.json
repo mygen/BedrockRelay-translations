@@ -362,7 +362,6 @@
     "web.sftp.folderLong": "Carpeta del servidor de Minecraft (la que tiene server.properties y worlds/)",
     "web.sftp.key": "Clave privada SSH (opcional)",
     "web.sftp.keyPlaceholder": "Opcional: una clave privada SSH en lugar de una contraseña",
-    "web.sftp.remember": "Recordar estos datos en este dispositivo. Nunca la contraseña ni la clave.",
     "web.sftp.missingTitle": "Faltan datos SFTP",
     "web.sftp.missingText": "Escribe el host SFTP, el usuario y una contraseña o clave privada.",
 

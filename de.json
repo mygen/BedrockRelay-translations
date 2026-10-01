@@ -362,7 +362,6 @@
     "web.sftp.folderLong": "Minecraft-Server-Ordner (der mit server.properties und worlds/)",
     "web.sftp.key": "Privater SSH-Schlüssel (optional)",
     "web.sftp.keyPlaceholder": "Optional: ein privater SSH-Schlüssel statt eines Passworts",
-    "web.sftp.remember": "Diese Angaben auf diesem Gerät merken. Niemals Passwort oder Schlüssel.",
     "web.sftp.missingTitle": "SFTP-Angaben fehlen",
     "web.sftp.missingText": "Gib den SFTP-Host, den Benutzernamen und ein Passwort oder einen privaten Schlüssel ein.",
 

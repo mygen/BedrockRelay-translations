@@ -362,7 +362,6 @@
     "web.sftp.folderLong": "Minecraft 服务器文件夹(包含 server.properties 和 worlds/ 的那个)",
     "web.sftp.key": "SSH 私钥(可选)",
     "web.sftp.keyPlaceholder": "可选:用 SSH 私钥代替密码",
-    "web.sftp.remember": "在此设备上记住这些信息。绝不记住密码或密钥。",
     "web.sftp.missingTitle": "缺少 SFTP 信息",
     "web.sftp.missingText": "请输入 SFTP 主机、用户名,以及密码或私钥。",
 

@@ -362,7 +362,6 @@
     "web.sftp.folderLong": "Папка сервера Minecraft (та, где лежат server.properties и worlds/)",
     "web.sftp.key": "Закрытый ключ SSH (необязательно)",
     "web.sftp.keyPlaceholder": "Необязательно: закрытый ключ SSH вместо пароля",
-    "web.sftp.remember": "Запомнить эти данные на этом устройстве. Пароль и ключ — никогда.",
     "web.sftp.missingTitle": "Не хватает данных SFTP",
     "web.sftp.missingText": "Введите хост SFTP, имя пользователя и пароль или закрытый ключ.",
 

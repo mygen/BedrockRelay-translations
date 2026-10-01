@@ -362,7 +362,6 @@
     "web.sftp.folderLong": "Pasta do servidor de Minecraft (a que tem server.properties e worlds/)",
     "web.sftp.key": "Chave privada SSH (opcional)",
     "web.sftp.keyPlaceholder": "Opcional: uma chave privada SSH em vez de senha",
-    "web.sftp.remember": "Lembrar estes dados neste dispositivo. Nunca a senha nem a chave.",
     "web.sftp.missingTitle": "Faltam dados de SFTP",
     "web.sftp.missingText": "Digite o host SFTP, o usuário e uma senha ou chave privada.",
 
