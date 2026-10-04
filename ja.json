@@ -101,6 +101,8 @@
     "discord.link.current": "{server} で {player} と連携しています。",
     "discord.link.unlinked": "連携を解除しました。プラグインはあなたがどのプレイヤーか分からなくなりました。",
     "discord.link.wasntLinked": "すでに連携は解除されていました。",
+    "discord.proximity.linkFirst": "このロビーでは誰も話せません。ここで待つと、{server} で近くにいる人と同じルームにボットが移動させます。移動するのはリンク済みのプレイヤーだけなので、先に {channel} で /relay link を実行してからゲームに参加してください。",
+    "discord.proximity.linkFirstNoChannel": "このロビーでは誰も話せません。ここで待つと、{server} で近くにいる人と同じルームにボットが移動させます。移動するのはリンク済みのプレイヤーだけなので、先に {server} に接続されたチャンネルで /relay link を実行してからゲームに参加してください。",
     "discord.error": "問題が発生しました。",
     "discord.errorRunning": "実行中に問題が発生しました。",
 

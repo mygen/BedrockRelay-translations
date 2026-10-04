@@ -101,6 +101,8 @@
     "discord.link.current": "Tu es lié à {player} sur {server}.",
     "discord.link.unlinked": "Délié. Les plugins ne savent plus quel joueur tu es.",
     "discord.link.wasntLinked": "Tu n'étais plus lié.",
+    "discord.proximity.linkFirst": "Personne ne peut parler dans ce salon d'attente : tu attends ici, et le bot te déplace dans un salon avec ceux qui sont près de toi dans {server}. Il ne déplace que les joueurs liés, alors lance d'abord /relay link dans {channel}, puis rejoins la partie.",
+    "discord.proximity.linkFirstNoChannel": "Personne ne peut parler dans ce salon d'attente : tu attends ici, et le bot te déplace dans un salon avec ceux qui sont près de toi dans {server}. Il ne déplace que les joueurs liés, alors lance d'abord /relay link dans un salon connecté à {server}, puis rejoins la partie.",
     "discord.error": "Quelque chose s'est mal passé.",
     "discord.errorRunning": "Quelque chose s'est mal passé pendant l'exécution.",
 

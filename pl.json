@@ -101,6 +101,8 @@
     "discord.link.current": "Jesteś powiązany z {player} na {server}.",
     "discord.link.unlinked": "Odłączono. Pluginy nie wiedzą już, którym graczem jesteś.",
     "discord.link.wasntLinked": "Nie byłeś już powiązany.",
+    "discord.proximity.linkFirst": "W tej poczekalni nikt nie może mówić: czekasz tutaj, a bot przenosi cię do pokoju z osobami, które są blisko ciebie w {server}. Przenosi tylko połączonych graczy, więc najpierw użyj /relay link na {channel}, a potem dołącz do gry.",
+    "discord.proximity.linkFirstNoChannel": "W tej poczekalni nikt nie może mówić: czekasz tutaj, a bot przenosi cię do pokoju z osobami, które są blisko ciebie w {server}. Przenosi tylko połączonych graczy, więc najpierw użyj /relay link na kanale połączonym z {server}, a potem dołącz do gry.",
     "discord.error": "Coś poszło nie tak.",
     "discord.errorRunning": "Coś poszło nie tak podczas uruchamiania.",
 

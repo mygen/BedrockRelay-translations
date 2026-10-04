@@ -101,6 +101,8 @@
     "discord.link.current": "你已在 {server} 上绑定到 {player}。",
     "discord.link.unlinked": "已解除绑定。插件不再知道你是哪个玩家。",
     "discord.link.wasntLinked": "你已经没有绑定了。",
+    "discord.proximity.linkFirst": "这个大厅里没人能说话：你在这里等待，机器人会把你移到 {server} 中离你近的人所在的房间。它只移动已关联的玩家，所以请先在 {channel} 中运行 /relay link，然后再进入游戏。",
+    "discord.proximity.linkFirstNoChannel": "这个大厅里没人能说话：你在这里等待，机器人会把你移到 {server} 中离你近的人所在的房间。它只移动已关联的玩家，所以请先在连接到 {server} 的频道中运行 /relay link，然后再进入游戏。",
     "discord.error": "出了点问题。",
     "discord.errorRunning": "运行时出了点问题。",
 

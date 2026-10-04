@@ -101,6 +101,8 @@
     "discord.link.current": "Du bist auf {server} mit {player} verknüpft.",
     "discord.link.unlinked": "Verknüpfung gelöst. Plugins wissen nicht mehr, welcher Spieler du bist.",
     "discord.link.wasntLinked": "Du warst nicht mehr verknüpft.",
+    "discord.proximity.linkFirst": "In dieser Lobby kann niemand sprechen: Du wartest hier, und der Bot verschiebt dich in einen Raum mit allen, die in {server} in deiner Nähe sind. Er verschiebt nur verknüpfte Spieler, also führe zuerst /relay link in {channel} aus und betritt dann das Spiel.",
+    "discord.proximity.linkFirstNoChannel": "In dieser Lobby kann niemand sprechen: Du wartest hier, und der Bot verschiebt dich in einen Raum mit allen, die in {server} in deiner Nähe sind. Er verschiebt nur verknüpfte Spieler, also führe zuerst /relay link in einem mit {server} verbundenen Kanal aus und betritt dann das Spiel.",
     "discord.error": "Dabei ist etwas schiefgelaufen.",
     "discord.errorRunning": "Beim Ausführen ist etwas schiefgelaufen.",
 

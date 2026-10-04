@@ -101,6 +101,8 @@
     "discord.link.current": "Estás vinculado a {player} en {server}.",
     "discord.link.unlinked": "Desvinculado. Los plugins ya no saben qué jugador eres.",
     "discord.link.wasntLinked": "Ya no estabas vinculado.",
+    "discord.proximity.linkFirst": "Nadie puede hablar en esta sala de espera: esperas aquí y el bot te mueve a una sala con quien esté cerca de ti en {server}. Solo mueve a jugadores vinculados, así que primero usa /relay link en {channel} y luego entra al juego.",
+    "discord.proximity.linkFirstNoChannel": "Nadie puede hablar en esta sala de espera: esperas aquí y el bot te mueve a una sala con quien esté cerca de ti en {server}. Solo mueve a jugadores vinculados, así que primero usa /relay link en un canal conectado a {server} y luego entra al juego.",
     "discord.error": "Algo salió mal con eso.",
     "discord.errorRunning": "Algo salió mal al ejecutarlo.",
 
