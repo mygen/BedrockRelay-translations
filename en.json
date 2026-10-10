@@ -2059,6 +2059,7 @@
     "web.setup.realmProblem.stillClosed": "Your Realm didn't open again by itself. In Minecraft, open the Realm's settings and turn off \"Temporarily close\".",
     "web.setup.realmProblem.notOwner": "This Realm isn't owned by the Microsoft account you signed in with.",
     "web.setup.realmProblem.other": "Something went wrong, and your Realm keeps its old world. Try again, and tell us if it happens again.",
+    "web.setup.realmPackAsleep": "Pack {version} is in. {realm} is asleep with nobody playing, so our bot will check it the next time someone joins.",
     "web.setup.realmPackDone": "Pack v{version} added, bot hidden",
     "errors.realm.unavailable": "Realms aren't available to set up yet.",
     "errors.realm.signIn": "Sign in with the Realm owner's Microsoft account first.",
