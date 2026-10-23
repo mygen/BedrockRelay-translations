@@ -667,6 +667,7 @@
     "web.status.cantJoinLong": "Online, but players can't join",
     "web.status.packSilent": "Pack not loading",
     "web.status.packSilentLong": "Running, but the BedrockRelay pack isn't loading",
+    "web.status.tokenShared": "Pack on two servers",
 
     "web.announce.info": "Update",
     "web.announce.maintenance": "Planned maintenance",
@@ -906,6 +907,10 @@
     "web.mc.reinstallPack": "Reinstall pack",
     "web.mc.packSilentTitle": "Your server is running, but the BedrockRelay pack isn't loading",
     "web.mc.packSilentCard": "The server is running, but the pack last connected {when}.",
+    "web.mc.tokenSharedCard": "Another server ({refused}) is running this world's pack, so we're turning it away.",
+    "web.mc.tokenSharedTitle": "Two servers are running this world's pack",
+    "web.mc.tokenSharedText": "The server at {kept} relays this world. Since {since}, a second server at {refused} has been trying to connect with the same pack, so we're turning it away. Two servers on one world knock each other off, and neither relays properly.",
+    "web.mc.tokenSharedFix": "If the second server should relay too, add it as a world of its own with Add a dedicated server: it gets its own pack. If it's a copy of this server's files, remove BedrockRelay from it, or reinstall there through its own world.",
     "web.mc.packSilentWorld": "Players can reach it, and its world is called {world}, but the pack last connected {when}.",
     "web.mc.packSilentNoWorld": "Players can reach it, but the pack last connected {when}.",
     "web.mc.packSilentMoved": "Its world is now called {world}, but when the pack last connected, {when}, it was {was}. A new, uploaded or copied world needs the pack too.",
