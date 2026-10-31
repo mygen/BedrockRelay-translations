@@ -2457,7 +2457,8 @@
     "web.blueprints.error.failed": "Holobuild couldn't do that. Try again.",
     "web.blueprints.error.lost": "Parts of the blueprint went missing on the way, twice. Try again when the world is less busy.",
 
-    "errors.holobuild.realm": "Blueprints work on Bedrock Dedicated Servers only, for now.",
+    "errors.holobuild.realmPackOld": "This needs the Realm pack {version} or newer. Update it on the Settings tab.",
+    "errors.holobuild.realmAway": "Our bot isn't in the Realm right now. It joins when someone starts playing.",
     "errors.holobuild.packOld": "This needs BedrockRelay {version} or newer in the world. Update the pack on the Settings tab.",
     "errors.holobuild.offline": "The world isn't connected right now.",
     "errors.holobuild.uploading": "A structure is already on its way to this world. Wait for it to finish.",
