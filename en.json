@@ -845,7 +845,7 @@
     "web.direction.in": "Discord → Minecraft",
 
     "web.events.legend": "Events",
-    "web.events.hint": "Tick none for a channel that gets only the plugin posts you choose for it, like a staff channel for alerts. Moderation says who was warned, kicked, muted or banned, by whom and why: tick it only on a staff channel. Realm Stories posts the Realm's story feed, screenshots included.",
+    "web.events.hint": "Tick none for a channel that gets only the plugin posts you choose for it, like a staff channel for alerts. Moderation says who was warned, kicked, muted or banned, by whom and why: tick it only on a staff channel. Realm Stories posts the Realm's story feed, screenshots included. Holobuild builds posts a card for each build in worlds with Bedrock Holobuild, with a picture of what's going up.",
     "web.events.chat": "Chat",
     "web.events.join": "Join",
     "web.events.leave": "Leave",
