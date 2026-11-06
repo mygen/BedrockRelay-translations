@@ -1762,6 +1762,7 @@
     "web.uninstall.manualStop": "Stop your Minecraft server.",
     "web.uninstall.manualFolder": "Delete the folder {folder}.",
     "web.uninstall.manualWorld": "In {file}, delete the entry whose pack_id is {id}. Keep every other entry.",
+    "web.uninstall.manualResources": "Delete the folder {folder} too, and in {file} delete the entry whose pack_id is {id}.",
     "web.uninstall.manualConfig": "In {variables} delete the keys starting with {prefix}, and in {secrets} delete {token}. If there is a {folder} folder, delete it.",
     "web.uninstall.manualBeta": "Optionally turn Beta APIs off in your world settings, if no other pack needs it. Achievements stay disabled for that world either way.",
     "web.uninstall.manualStart": "Start your Minecraft server.",
@@ -1927,6 +1928,7 @@
     "web.download.step1": "Stop the Minecraft server.",
     "web.download.step2": "Unzip into the folder with server.properties and worlds/. Merge files rather than replacing other packs.",
     "web.download.step3": "Add the BedrockRelay entry from INSTALL.txt to the top of your world's world_behavior_packs.json, keeping existing entries below it.",
+    "web.download.step3Resources": "Add the second entry from INSTALL.txt to the top of the world's world_resource_packs.json the same way. It keeps BedrockRelay ahead of addons that come with their own resource pack.",
     "web.download.step4": "Turn on Beta APIs for the world. It is required, and like any experiment it permanently disables achievements for that world.",
     "web.download.installed": "I've installed it",
 
